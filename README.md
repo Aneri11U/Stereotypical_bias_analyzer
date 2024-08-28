@@ -30,7 +30,8 @@ The biases are labeled as follows:
 Enter any sentence related to these labels and check the bias type of the sentence.
 
 <hr>
-### **Dataset and Model**
+
+## Dataset and Model
 
 - **Dataset:** [Bias Identification Dataset](https://huggingface.co/datasets/PriyaPatel/Bias_identification/tree/main)
 - **Model:** [Bias Identification Model](https://huggingface.co/PriyaPatel/bias_identificaiton45)
