@@ -39,4 +39,37 @@ Enter any sentence related to these labels and check the bias type of the senten
 
 <hr>
 
+**Here is the algorithm for the text classification and bias detection :**
+
+![image](https://github.com/neha13rana/Stereotypical-Bias-Analyzer/assets/121093178/d0a78462-1f29-4bee-9956-eb7fa17c8a26)
+
+**proposed model of our project :**
+
+Model flow :
+
+![image](https://github.com/neha13rana/Stereotypical-Bias-Analyzer/assets/121093178/a752692e-2b02-4576-9c93-77fe29844681)
+
+![image](https://github.com/neha13rana/Stereotypical-Bias-Analyzer/assets/121093178/977074eb-9b3e-4ff2-ba15-ee78c9597c70)
+
+**Bias Distribution of the dataset :**
+
+![image](https://github.com/neha13rana/Stereotypical-Bias-Analyzer/assets/121093178/f1ab7c8a-0009-4095-82d5-5a3cb315b7f1)
+
+The test dataset yielded an impressive accuracy of 0.9832
+for our bias identification model, demonstrating the model’s
+effectiveness in accurately recognising instances of biases in a
+variety of scenarios. This high degree of accuracy highlights
+the model’s resilience and potency in identifying minute
+linguistic clues that point to biases in text written in natural
+language. 
+
+Input:
+
+![WhatsApp Image 2024-04-29 at 09 59 47_ed824d43](https://github.com/neha13rana/Stereotypical-Bias-Analyzer/assets/121093178/6dc2d597-ba27-4044-b126-1e3e0787c3f8)
+
+Output:
+
+![WhatsApp Image 2024-04-29 at 10 00 03_ee57b731](https://github.com/neha13rana/Stereotypical-Bias-Analyzer/assets/121093178/74f2b060-e010-49fb-b7e5-67fc43b39768)
+
+
 
