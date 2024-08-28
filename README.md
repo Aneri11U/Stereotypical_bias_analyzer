@@ -28,3 +28,15 @@ The biases are labeled as follows:
 - **Profession (9)**
 
 Enter any sentence related to these labels and check the bias type of the sentence.
+
+<hr>
+
+**Steps to use this website :**
+
+1) Pip install flask
+2) Download the requirement.txt
+3) write Python app.py in the cmd after downloading this folder
+
+<hr>
+
+
